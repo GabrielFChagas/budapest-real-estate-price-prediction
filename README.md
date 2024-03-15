@@ -2,7 +2,9 @@
 
 This repository contains code for analyzing and modeling real estate data from Budapest. The Jupyter Notebook file price_prediction_real_estate_budapest.ipynb is an interactive document created using Google Colab.
 
-Overview
+Overview:
+
+
 The notebook covers various steps involved in data analysis and modeling, including:
 
 1 Importing essential libraries.
@@ -26,7 +28,9 @@ The notebook covers various steps involved in data analysis and modeling, includ
 11 Model evaluation.
 
 
-Installation
+Installation:
+
+
 To run the notebook locally, follow these steps:
 
 1 Clone this repository: git clone <repository_url>
@@ -36,7 +40,9 @@ To run the notebook locally, follow these steps:
 3 Open the Jupyter Notebook: jupyter notebook price_prediction_real_estate_budapest.ipynb
 
 
-Usage
+Usage:
+
+
 Follow the instructions provided in the notebook to execute each code cell sequentially. You can modify the code as needed for experimentation or further analysis.
 
 Feel free to modify and enhance the code according to your requirements! If you have any questions or suggestions, please don't hesitate to reach out.
